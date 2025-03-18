@@ -1,22 +1,3 @@
-<<<<<<< HEAD
-### "Burger Shop Website"
-
----
-
-This is a web project for a burger shop, built with Angular and JavaScript. The website allows users to browse the burger menu, customize their orders, and place them online. This project was created to practice developing an e-commerce website with Angular, focusing on dynamic content rendering, user interaction, and seamless order management.
-
-## Key Features:
-
-- Browse a variety of burgers on the menu.
-- Customize your burger with different toppings.
-- Add items to the cart and proceed to checkout.
-- Responsive design for mobile and desktop views.
-- User-friendly interface with Angular components and routing.
-- Easy-to-use forms for order customization and payment.
-- JavaScript for handling dynamic interactions and logic.
-
-#### Technologies Used: Angular, JavaScript, HTML, CSS, TypeScript.
-=======
 # Burgers
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.6.
@@ -44,4 +25,3 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
->>>>>>> ef9cb17 (Added source code)
